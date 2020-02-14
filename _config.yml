@@ -1,0 +1,17 @@
+theme: minima
+
+# Build settings
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
+
+url: "https://secondbase.github.io" 
+baseurl: "" # the subpath of your site if neded, e.g. /sitecontent
+
+title: secondbase.github.io
+description: >- # this means to ignore newlines
+  A dumping ground for random texts on Bitcoin.
+
+
+include: [".well-known", ".nojekyll"]

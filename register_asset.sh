@@ -1,0 +1,1 @@
+curl https://assets.blockstream.info/ --data-raw '{"asset_id":"6fda916350005dcf9750ae3021bf96f487c5eb32514058143ef5b22c0f622f9d","contract":{"entity":{"domain":"secondbase.github.io"},"issuer_pubkey":"0395022c08dd376ba38217302b7be147081baf3a591f7c250808353a3a7947b8be","name":"BUCS TOKEN","precision":0,"ticker":"BUCS","version":0}}'
